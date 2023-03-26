@@ -37,7 +37,7 @@
 					<div class="col-lg-5">
 						<div class="intro-excerpt">
 							<h1>Contacto</h1>
-							<p class="mb-4">Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique.</p>
+							<p class="mb-4">Contáctanos para saber si deseas alguna mejora o algún  producto que no aparezca</p>
 						</div>
 					</div>
 					<div class="col-lg-7">

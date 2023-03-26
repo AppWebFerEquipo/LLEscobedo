@@ -37,7 +37,7 @@
 					<div class="col-lg-5">
 						<div class="intro-excerpt">
 							<h1>Servicios</h1>
-							<p class="mb-4">Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique.</p>
+							<p class="mb-4">Contamos con servicio de rescate con camioneta equipada para poder hacer las reparaciones en el sitio</p>
 							<p><a href="/tienda" class="btn btn-secondary me-2" style="color: white">Comprar ahora</a><a href="/acercade" class="btn btn-white-outline">Explorar</a></p>
 						</div>
 					</div>

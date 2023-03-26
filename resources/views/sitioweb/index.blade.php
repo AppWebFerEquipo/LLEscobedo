@@ -28,7 +28,8 @@
 					<div class="col-lg-5">
 						<div class="intro-excerpt">
 							<h1>Inicio</h1>
-							<p class="mb-4">Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique.</p>
+							<p class="mb-4">Llantera Escobedo Caucel, somos una empresa joven dedicada a la venta y reparacion de todo tipo de llanta, siempre tratamos de dar el mejor servicio y los mejores precios
+							</p>
 							<p><a href="/tienda" class="btn btn-secondary me-2" style="color: white">Levantar pedido, YA!</a><a href="/servicios" class="btn btn-white-outline">Explorar</a></p>
 						</div>
 					</div>

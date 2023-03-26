@@ -1,7 +1,7 @@
-<nav class="custom-navbar navbar navbar navbar-expand-md navbar-dark bg-dark" style="background-color: rgb(156, 117, 45)" arial-label="Furni navigation bar">
+<nav class="custom-navbar navbar navbar navbar-expand-md navbar-dark bg-dark" style="" arial-label="Furni navigation bar">
 
     <div class="container">
-        <a class="navbar-brand" href="/" style="color:rgb(41, 37, 37);">LLEscobedo</a>
+        <a class="navbar-brand" href="/" ><img src="images/llantera_logo1.PNG" width="50%"></a>
         {{-- src="{{ public_path('images/Logoinadware0001.png') }}" --}}
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsFurni" aria-controls="navbarsFurni" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -15,7 +15,7 @@
                 <li class="nav-item {{ (request()->is('tienda')) ? 'active' : '' }}"><a class="nav-link " href="tienda">Tienda</a></li>
                 <li class="nav-item {{ (request()->is('servicios')) ? 'active' : '' }}"><a class="nav-link " href="servicios">Servicios</a></li>
                 <li class="nav-item {{ (request()->is('contacto')) ? 'active' : '' }}"><a class="nav-link " href="contacto">Contacto</a></li>
-                <li class="nav-item {{ (request()->is('acercade')) ? 'active' : '' }}"><a class="nav-link " href="acercade">Acerca de</a></li>
+                <li class="nav-item {{ (request()->is('acercade')) ? 'active' : '' }}"><a class="nav-link " href="acercade">Nosotros</a></li>
 
                 {{-- <li><a class="nav-link" href="blog.html">Blog</a></li> --}}
 
@@ -38,7 +38,7 @@
                                     <a href="{{ route('logout') }}"
                                         onclick="event.preventDefault();
                                         this.closest('form').submit();">
-                                        {{ __('Logout') }}
+                                        {{ __('Cerrar Sesion') }}
                                     </a>
                                 </form>
                             </div>
